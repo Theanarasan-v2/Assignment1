@@ -288,6 +288,9 @@ header {
         margin-top: -50px;
         height: 330px;
     }
+    @media #{$lg-down} {      
+    margin-top: 0px;
+    }
     .ser-sec3{
         display: flex;
         padding-bottom: 30px;
@@ -384,7 +387,7 @@ footer{
         gap: 10px 20px;
         margin-left: -200px;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: center; 
     }
     }
     a{

@@ -330,6 +330,11 @@ header nav a:before {
     height: 330px;
   }
 }
+@media (max-width: 1199px) {
+  .ser2 {
+    margin-top: 0px;
+  }
+}
 .ser2 .ser-sec3 {
   display: flex;
   padding-bottom: 30px;
