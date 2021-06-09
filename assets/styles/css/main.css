@@ -332,7 +332,8 @@ header nav a:before {
 }
 @media (max-width: 1199px) {
   .ser2 {
-    margin-top: 0px;
+    margin-top: -49px;
+    height: 280px;
   }
 }
 .ser2 .ser-sec3 {

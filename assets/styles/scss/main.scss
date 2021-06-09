@@ -289,7 +289,8 @@ header {
         height: 330px;
     }
     @media #{$lg-down} {      
-    margin-top: 0px;
+        margin-top: -49px;
+        height: 280px;
     }
     .ser-sec3{
         display: flex;
